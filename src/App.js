@@ -1,22 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from './JCPT.JPG';
+import './index.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1 style={{ fontSize: "50px", marginLeft: "20%" }}>Sri Chinna Polamamba Ammavari Temple</h1>
+        <marquee scrollamount="20" style={{ color: "olive", fontSize: "50px" }}>
+        Om Chinna Polamamba Deviye Namah
+        </marquee>
+        <img src={logo} alt="Sri Chinna Polamamba" style={{ marginLeft: "60%" }} />
       </header>
     </div>
   );
