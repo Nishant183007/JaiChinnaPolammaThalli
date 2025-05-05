@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/JaiChinnaPolammaThalli/static/css/main.ba774dd3.css",
-    "main.js": "/JaiChinnaPolammaThalli/static/js/main.84a78b9d.js",
+    "main.css": "/JaiChinnaPolammaThalli/static/css/main.480d3f7a.css",
+    "main.js": "/JaiChinnaPolammaThalli/static/js/main.b7743ef3.js",
     "static/js/453.b263be73.chunk.js": "/JaiChinnaPolammaThalli/static/js/453.b263be73.chunk.js",
     "static/media/ChinnaPolammaThalliDay1.jpeg": "/JaiChinnaPolammaThalli/static/media/ChinnaPolammaThalliDay1.943910855e7dfff6159b.jpeg",
     "static/media/JCPT.JPG": "/JaiChinnaPolammaThalli/static/media/JCPT.033c5802c81989c4b9cd.JPG",
     "index.html": "/JaiChinnaPolammaThalli/index.html",
-    "main.ba774dd3.css.map": "/JaiChinnaPolammaThalli/static/css/main.ba774dd3.css.map",
-    "main.84a78b9d.js.map": "/JaiChinnaPolammaThalli/static/js/main.84a78b9d.js.map",
+    "main.480d3f7a.css.map": "/JaiChinnaPolammaThalli/static/css/main.480d3f7a.css.map",
+    "main.b7743ef3.js.map": "/JaiChinnaPolammaThalli/static/js/main.b7743ef3.js.map",
     "453.b263be73.chunk.js.map": "/JaiChinnaPolammaThalli/static/js/453.b263be73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba774dd3.css",
-    "static/js/main.84a78b9d.js"
+    "static/css/main.480d3f7a.css",
+    "static/js/main.b7743ef3.js"
   ]
 }
